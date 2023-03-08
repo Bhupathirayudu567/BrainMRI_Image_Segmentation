@@ -15,5 +15,5 @@ Tumor genomic clusters and patient data is provided in data.csv file.
 
 
 #### further improvement:
---> better gpu resources required to further train the model
---> model code and model structure with encoder and decoder halves is in working stage and can be modified by adding a resnet addition
+--> better gpu resources required to further train the model.
+--> model code and model structure with encoder and decoder halves is in working stage and can be modified by adding a resnet addition.
